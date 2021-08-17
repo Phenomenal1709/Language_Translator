@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972935359407",
+    "project_id": "translator-app-ce6de",
+    "storage_bucket": "translator-app-ce6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972935359407:android:04e306836f93d5695edd5a",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972935359407-v3j8dmdp2q3u0d5tas86o6jcrn7fele1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf83va16aYcXzbrHJf9OcLqj6suPbUQVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972935359407-v3j8dmdp2q3u0d5tas86o6jcrn7fele1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
